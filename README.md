@@ -1,7 +1,12 @@
-
 # AI-Powered Resume & Job Matcher
 
 An intelligent resume analysis application built using Python and Streamlit. It helps job seekers evaluate their resumes against job descriptions, identify skill gaps, check ATS compatibility, and discover suitable career opportunities.
+
+## Live Demo
+
+Try the application here:
+
+**[Launch AI Resume & Job Matcher](https://arjun-p2003-ai-resume-job-matcher-app-yfbqno.streamlit.app/)**
 
 ## Features
 
@@ -105,9 +110,9 @@ The application will open in your browser.
 
 ## Machine Learning Approach
 
-The application uses TF-IDF (Term Frequency-Inverse Document Frequency) to convert resume and job description text into numerical representations.
+The application uses **TF-IDF (Term Frequency-Inverse Document Frequency)** to convert resume and job description text into numerical representations.
 
-Cosine Similarity is then used to measure how closely the resume matches the job description.
+**Cosine Similarity** is then used to measure how closely the resume matches a job description.
 
 Skill extraction and comparison help identify relevant skills, missing skills, and additional skills.
 
@@ -135,9 +140,13 @@ SQLite is used to store resume analysis history, including:
 
 **Arjun P**
 
-AI & Machine Learning Student  
+AI & Machine Learning  
 Acharya Institute of Technology
 
 ## GitHub Repository
 
 [AI-Powered Resume & Job Matcher](https://github.com/Arjun-P2003/AI_Resume_Job_Matcher)
+
+## Live Application
+
+[https://arjun-p2003-ai-resume-job-matcher-app-yfbqno.streamlit.app/](https://arjun-p2003-ai-resume-job-matcher-app-yfbqno.streamlit.app/)
